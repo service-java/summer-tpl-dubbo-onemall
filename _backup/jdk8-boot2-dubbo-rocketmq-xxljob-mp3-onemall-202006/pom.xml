@@ -17,13 +17,13 @@
         <module>common</module>
         <module>ops</module>
         <module>demo</module>
-        <module>service-product</module>
-        <module>service-order</module>
-        <module>service-user</module>
-        <module>service-system</module>
-        <module>service-pay</module>
-        <module>service-promotion</module>
-        <module>service-search</module>
+        <module>service-18081-product</module>
+        <module>service-18082-user</module>
+        <module>service-18083-system</module>
+        <module>service-18084-pay</module>
+        <module>service-18085-promotion</module>
+        <module>service-18086-search</module>
+        <module>service-18088-order</module>
     </modules>
     <packaging>pom</packaging>
 
